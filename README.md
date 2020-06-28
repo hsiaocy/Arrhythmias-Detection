@@ -1,5 +1,5 @@
 [![Platform](https://img.shields.io/badge/Platform-Tensorflow-orange.svg)](https://www.tensorflow.org/)
-[![Python](https://img.shields.io/badge/Python-3.5-green.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.6-green.svg)]()
 
 # Arrthymias Detection Based on Electrocardiogram Using A Deep Autoencoder
 
