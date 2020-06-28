@@ -35,8 +35,10 @@ Before you start testing, following requirements are needed.
 - wfdb2.2.0
 - pywt
 
-#### Instructions
-Currently I will not upload the data-set and label-set due to large size, but you can use wfdb to produce both easily.
+# About Data
+
+If you need data, you could use Export/DataReader.py to read/write data to you space after you download the raw-data from the MITDB.
+- [Download the ZIP file](https://storage.googleapis.com/mitdb-1.0.0.physionet.org/mit-bih-arrhythmia-database-1.0.0.zip) 
 
 # TODO
 - More detail about AD.
